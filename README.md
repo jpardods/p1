@@ -1,4 +1,5 @@
 # Práctica 1: Entorno de Desarrollo
+## Juan Pardo de Santayana Navarro
 
 El objetivo de esta primera práctica de Programación de Aplicaciones Telemáticas es la creación de un repositorio para empezar a usar [git](https://git-scm.com/) y Github, además de preparar el equipo del alumno para poder realizar las futuras prácticas.
 
@@ -8,15 +9,21 @@ GitHub es una aplicación web que hace uso de las características de control de
 
 Para empezar, se debe crear un repositorio en el que realizar la práctica. Dentro de este repositorio se crea un Codespace desde el que se realiza una copia de la práctica 1 con el comando clone, que se explica más adelante. Además, para poder realizar cambios a la práctica sin afectar el repositorio original, se realiza un fork, que copia el repositorio en tu propia cuenta de GitHub creando una bifurcación independiente del repositorio original. En las siguientes fotos se puede observar la creación del repositorio y del Codespace:
 
-#### Creación del Repositorio
+### Creación del Repositorio
 ![](https://github.com/jpardods/p1/blob/main/fotos/rep1.JPG)
+
 
 ![](https://github.com/jpardods/p1/blob/main/fotos/rep2.JPG)
 
-#### Creación del Codespace
+
+
+### Creación del Codespace
 ![](https://github.com/jpardods/p1/blob/main/fotos/cod1.JPG)
 
+
 ![](https://github.com/jpardods/p1/blob/main/fotos/cod2.JPG)
+
+
 
 ## Comandos git básicos
 
